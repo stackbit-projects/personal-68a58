@@ -35,7 +35,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Aryan Chouhan
+      value: Aryan Chouhan | Computer Engineer
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
