@@ -49,7 +49,7 @@ seo:
     - name: 'twitter:title'
       value: aryanchon
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: aryanchon
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
