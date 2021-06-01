@@ -38,7 +38,7 @@ seo:
       value: Aryan Chouhan | Computer Engineer
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Computer Engineer
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
