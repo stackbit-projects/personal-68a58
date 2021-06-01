@@ -28,7 +28,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Aryan Chouhan
+  title: Aryan Chouhan | Computer Engineer
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
